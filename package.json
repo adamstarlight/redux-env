@@ -1,0 +1,37 @@
+{
+  "name": "redux-env",
+  "version": "0.0.1",
+  "description": "Typelevel DI package for Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamstarlight/redux-env.git"
+  },
+  "keywords": [
+    "di",
+    "dependency",
+    "injection",
+    "typescript",
+    "redux"
+  ],
+  "author": "Gleb Garipov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamstarlight/redux-env/issues"
+  },
+  "homepage": "https://github.com/adamstarlight/redux-env#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^8.12.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "jest": "^27.5.1",
+    "prettier": "2.6.1",
+    "typescript": "^4.6.3"
+  }
+}
